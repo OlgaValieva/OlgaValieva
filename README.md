@@ -2,3 +2,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student+of+School+21+)](https://git.io/typing-svg)
+
+* *E-mail:* <olga.valieva@hotmail.com>
